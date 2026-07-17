@@ -50,3 +50,6 @@ Ejemplo:
 ### Listar estudiantes
 
 GET /estudiantes
+
+REDME ECHO POR CHATGPT
+
